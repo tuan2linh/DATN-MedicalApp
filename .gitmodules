@@ -1,0 +1,9 @@
+[submodule "DATN-251"]
+	path = DATN-251
+	url = https://github.com/tuan2linh/DATN-251.git
+[submodule "MedicineApp"]
+	path = MedicineApp
+	url = https://github.com/huybkcomsci/MedicineApp.git
+[submodule "DATN-251-AdminDashBoard"]
+	path = DATN-251-AdminDashBoard
+	url = https://github.com/tuan2linh/DATN-251-AdminDashBoard.git
